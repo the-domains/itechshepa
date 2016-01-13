@@ -1,0 +1,28 @@
+name: iTechShepa
+favicon: null
+layout_spectrum: 0.7206500470638275
+typography_spectrum: 0.4403683242853731
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7784953948576003
+  lightness: 0.4369072753470391
+  saturation: 0.7804374801926315
+  rhythmicContrast: 0.846584873041138
+purpose: []
